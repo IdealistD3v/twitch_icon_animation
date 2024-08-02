@@ -1,0 +1,13 @@
+img{
+    max-width:100%;
+    height:auto;
+    opacity:.7;
+    transition: opacity .3s;
+}
+
+.talked{
+    opacity:1;
+    filter: brightness(1);
+    -webkit-transition : -webkit-filter 500ms linear;
+    transition: opacity .3s;
+}
